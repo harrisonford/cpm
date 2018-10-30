@@ -11,7 +11,7 @@ to use Tensorflow in this [convolutional pose model](https://github.com/shihenw/
 
 As promised, you can run this on binder.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/harrisonford/AkoriSalienceNotebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/harrisonford/cpm/master?filepath=https%3A%2F%2Fgithub.com%2Fharrisonford%2Fcpm%2Fblob%2Fmaster%2Fexample.ipynb)
 
 For the code to run we need to download the pre-trained structures, which are not inside this code because they tend
 to weight a ton. You can have them stored on your PC or also have them in a cloud somewhere.
