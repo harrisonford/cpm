@@ -9,7 +9,7 @@ to use Tensorflow in this [convolutional pose model](https://github.com/shihenw/
 
 ## Getting Started
 
-As promised, you can run this on binder.
+As promised, you can run this on binder. TODO: NOT YET! Sorry.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/harrisonford/cpm/master?filepath=https%3A%2F%2Fgithub.com%2Fharrisonford%2Fcpm%2Fblob%2Fmaster%2Fexample.ipynb)
 
