@@ -1,6 +1,6 @@
 # cpm - harrisonford's fork
 
-This is fork from this project called [cpm](https://github.com/psycharo) which comes as a well greeted attempt 
+Forked from this project called [cpm](https://github.com/psycharo) which comes as a well greeted attempt 
 to use Tensorflow in this [convolutional pose model](https://github.com/shihenw/convolutional-pose-machines-release)
  made originally in Caffe (yuck).
  
@@ -21,7 +21,7 @@ TODO: Where will I save the models? psycharo made them available through his dri
 
 ### Installing
 
-It's highly advised to make your own virtual environment with pip, you can followthe steps listed
+It's highly advised to make your own virtual environment with pip, you can follow the steps listed
  in their docs [here.](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/)
 
 
@@ -34,7 +34,7 @@ I'm alone and single for now.
 
 * **[harrisonford](https://github.com/harrisonford)** - *This is my fork.*
 * **[psycharo](https://github.com/psycharo)** - *Initial TF + Jupyter capsule.*
-* **[shihenw](https://github.com/shihenw)** - *Original author.*
+* **[shihenw](https://github.com/shihenw)** - *Original author of the model.*
 
 
 ## License
